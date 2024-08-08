@@ -2,7 +2,7 @@
 
 Meu nome é Tales Edivaldo 
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na limguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -12,4 +12,4 @@ Meu nome é Tales Edivaldo
 
 ### @talesxz ⚓
 
-
+![](https://media1.tenor.com/m/rikqsLk9Op0AAAAC/seriously-anxiety.gif)
